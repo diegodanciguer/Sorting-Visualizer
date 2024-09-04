@@ -7,7 +7,6 @@ Este projeto é um visualizador de algoritmos de ordenação implementado em Pyt
 ## Algoritmos Implementados
 
 - Bubble Sort
-- (Você pode adicionar outros algoritmos aqui à medida que os implementa)
 
 ## Requisitos
 
